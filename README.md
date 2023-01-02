@@ -1,4 +1,4 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/cov7w2po8c4ovjvu?svg=true)](https://ci.appveyor.com/project/DedMaier/arraybuffer-math)
+[![Build status](https://ci.appveyor.com/api/projects/status/sruueyu0331y1l6c?svg=true)](https://ci.appveyor.com/project/DedMaier/arraybuffer-math-4a4yj)
 ## `Math (log/trig)`
 
 ### Легенда
