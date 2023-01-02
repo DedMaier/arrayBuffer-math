@@ -1,8 +1,13 @@
 /* eslint-disable no-useless-constructor */
-import Character from './Character';
 
-export default class Daemon extends Character {
-  constructor(name, type) {
-    super(name, type);
+import CharacterWizards from './сharacterWizards';
+
+export default class Daemon extends CharacterWizards {
+  constructor(name) {
+    super(name);
+    super.name = name;
+    super.type = 'Daemon';
+    super.attack_property = 10;
+    super.defence = 40;
   }
 }
