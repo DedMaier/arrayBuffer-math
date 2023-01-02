@@ -1,5 +1,5 @@
 /* eslint-disable */
-import Daemon from "../daemon";
+import Daemon from "../Daemon";
 
 test('Вернет объект', () => {
   const мagician = new Daemon('Макс');

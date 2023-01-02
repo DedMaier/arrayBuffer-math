@@ -1,5 +1,5 @@
 /* eslint-disable */
-import Magician from "../magician";
+import Magician from "../Magician";
 
 test('Вернет объект', () => {
   const мagician = new Magician('Макс');
